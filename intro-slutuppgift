@@ -1,10 +1,19 @@
 Intro- slutuppgift
-Innan kursens gång visste jag inte vad mjukvara var, jag har hört det men inte lagt någon energi på att ta reda på vad det innebär. Nu vet jag att det tillsammans med hårdvara bildar huvudkomponenterna i ett informationssystem. Mjukvaran är produkterna utvecklare bygger, appar, webbsidor mm. 
+Innan kursens gång visste jag inte vad mjukvara var, jag har hört det men inte lagt någon energi på att ta reda på vad det innebär. 
+Nu vet jag att det tillsammans med hårdvara bildar huvudkomponenterna i ett informationssystem. Mjukvaran är produkterna utvecklare bygger, appar, webbsidor mm. 
 
-För att kunna utveckla mjukvara på ett smidigare och säkrare sätt, använder man DevOps. Det skulle jag förklarat såhär, det är en metod att jobba som används för att ett projekt ska kunna flyta på smidigare. Det handlar om att jobba i team, samarbeta, leverera bra resultat snabbt. Detta gör man genom att använda sig av verktyg som förenklar det, CI/CD. Man programmerar en CI/CD som förenklar/snabbar på arbetet genom automatisering av tester/ respektive automatisk leverans av all kod som blivit godkänd.
+För att kunna utveckla mjukvara på ett smidigare och säkrare sätt, använder man DevOps. Det skulle jag förklarat såhär, det är en metod att jobba som används för
+att ett projekt ska kunna flyta på smidigare. Det handlar om att jobba i team, samarbeta, leverera bra resultat snabbt. Detta gör man genom att använda sig av 
+verktyg som förenklar det, CI/CD. Man programmerar en CI/CD som förenklar/snabbar på arbetet genom automatisering av tester/ respektive automatisk leverans 
+av all kod som blivit godkänd.
 
-Molnet som vi pratat om under vecka 3 av kursen har jag känt varit spännande på så sätt att det känns häftigt. Det känns som ett enkelt sätt att kunna starta något eget. Man måste inte ha ett kontor med stora servrar, anställa folk mm. Det som känns svårt är hur man ska börja, hur man jobbar med cloud osv, det känns så stort.
+Molnet som vi pratat om under vecka 3 av kursen har jag känt varit spännande på så sätt att det känns häftigt. Det känns som ett enkelt sätt att kunna starta
+något eget. Man måste inte ha ett kontor med stora servrar, anställa folk mm. Det som känns svårt är hur man ska börja, hur man jobbar med cloud osv,
+det känns så stort.
 
-Något jag förstått under denna första kurs är att kommunikation är A och O, speciellt när man jobbar i team. Det är viktigt att kunna samarbeta och kommunicera tydligt. Jag tror även att det är viktigt att kunna ta emot/ ge feedback och kritik. Även att man är öppen för att lära sig av andra man jobbar med.
+Något jag förstått under denna första kurs är att kommunikation är A och O, speciellt när man jobbar i team. Det är viktigt att kunna samarbeta och kommunicera 
+tydligt. Jag tror även att det är viktigt att kunna ta emot/ ge feedback och kritik. Även att man är öppen för att lära sig av andra man jobbar med.
 
-Jag tycker att det bästa under denna kursen har varit att jag nu känner att jag förstår hur allt hänger ihop och fungerar. Jag vet hur jag ska göra när jag ska skapa ett github repository från VS, hur push och commit fungerar, brancher och pull request. Det tyckte jag var jättesvårt i början, men jag känner att det går snabbare och snabbare ju mer man sitter med övningar. 
+Jag tycker att det bästa under denna kursen har varit att jag nu känner att jag förstår hur allt hänger ihop och fungerar. Jag vet hur jag ska göra när jag ska 
+skapa ett github repository från VS, hur push och commit fungerar, brancher och pull request. 
+Det tyckte jag var jättesvårt i början, men jag känner att det går snabbare och snabbare ju mer man sitter med övningar. 

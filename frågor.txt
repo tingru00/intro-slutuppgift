@@ -1,0 +1,16 @@
+Vad är skillnaden mellan IaaS, PaaS och SaaS?
+IaaS= Hyr resureser, servrar, lagring, nätverk. Kan jämföras med att köpa en bil.
+PaaS= Du hyr en plattform. Kan jämföras med att leasa en bil.
+SaaS= Du använder en färdig programvara, som gmail ex. Kan jämföras med att ta en taxi.
+
+Vad gör Git och vad är GitHub?
+Github är plattform som bygger på git, git är verktyget. Det kan jämföras med word och OneDrive.
+
+Vad är ett informationssystem?
+Det är ett ramverk som kombinerar teknik, människor och processer för att hantera information effektivt. 
+
+Vad är CIA-triaden?
+Det är en grundmodell inom IT-säkerhet, som hjälper företag att bygga system som är säkra. Står för C- confidentiality, I- integrity, A- availability. 
+
+Vad är Continuous Integration (CI)?
+CI är ett sätt att se till att kod som commitas går igenom de tester som krävs. Detta genom att man programmerar en workflow genom ex. github actions som automatiskt testar koden som commitas innan den kan mergeas.

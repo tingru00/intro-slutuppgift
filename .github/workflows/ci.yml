@@ -8,4 +8,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - name: Visa meddelande
-      run: echo \"Hejsan! Detta är en automatisk körning via GitHub Actions\"
+      run: echo \"Testkörning:ändring i CI-workflow fungerar\"
